@@ -1,8 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app - but no! It's a boilerplate created by myself`](https://github.com/santanapaulo/react-boilerplate-nextjs).
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app. It's a boilerplate created by myself`].
 ## Motivation
-
-The main idea behind this project is to apply some concepts, such as **unit tests**, a **Storybook server**, some **Graphql**, which we integrate using **Apollo Client**.
 
 Soooo, I hope you enjoy it. Any doubts, let me know.
 
@@ -17,3 +14,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
